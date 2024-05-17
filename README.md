@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything ^.^
 - 🌱 I’m currently learning coding some stuff
 - 💞️ I’m looking to collaborate on everyone ^.^
-- 📫 How to reach me contact me via my email adress ^.^ (nguyenpham089@gmail.com)
+- 📫 How to reach me contact me via my email adress ^.^ (nguyenpham080@gmail.com)
 
 <!---
 kazei1211/kazei1211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
