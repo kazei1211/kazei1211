@@ -5,7 +5,6 @@
 # Hi there! I'm Nguyen (Yu-an) 
 ### Full stack developer
 
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -17,7 +16,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -29,7 +27,6 @@
 
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
