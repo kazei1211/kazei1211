@@ -2,7 +2,8 @@
 
 <div align="center">
 
-### Hi there! I'm Nguyen (Yu-an) 
+# Hi there! I'm Nguyen (Yu-an) 
+### Full stack developer
 
 
 ## 🤝 Connect With Me
